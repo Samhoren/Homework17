@@ -1,6 +1,25 @@
-.navigation {
+.inline-block {
     display: inline-block;
-    height: 5%;
-    width: 100%
+    vertical-align: top;
     background-color: 
+}
+.logo {
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+}
+.Nav {
+    width: 73%;
+    padding: 1%;
+}
+.heroImg {
+    height: 600px;
+    padding: 25px;
+}
+.content {
+    width: 500px;
+    margin: 0 auto;
+}
+.footer {
+    background-color: #373738;
 }
